@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.Form1.resources
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\bin\Debug\ListaFornecedores.exe.config
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\bin\Debug\ListaFornecedores.exe
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\bin\Debug\ListaFornecedores.pdb
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.exe
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.pdb
+C:\Users\Usuario\source\repos\ListaFornecedores\ListaFornecedores\obj\Debug\ListaFornecedores.View.Form2.resources
